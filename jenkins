@@ -1,0 +1,2 @@
+poll scm , for every time you update the code in git repo automatlically 
+takes build in jenkins
